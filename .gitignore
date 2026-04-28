@@ -1,0 +1,75 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb~
+
+# Data files (большие файлы данных)
+data/
+*.csv
+*.zip
+*.tar.gz
+*.7z
+
+# Models (большие модели)
+models/
+*.pth
+*.pt
+*.bin
+*.safetensors
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Google Drive
+drive/
+MyDrive/
+
+# Colab
+.colab/
+sample_data/
+
+# Secrets
+*.json
+.env
+*.key
+
+# Archives
+*.zip
+*.tar
+*.gz
+
+# Virtual environment
+venv/
+lib/
+lib64/
+bin/
+include/
+share/
+pyvenv.cfg
+
+# Cache
+.cache/
+.mypy_cache/
+.pytest_cache/

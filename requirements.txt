@@ -1,0 +1,8 @@
+torch==2.2.2
+torchvision==0.17.2
+numpy==1.23.5
+ultralytics==8.2.0
+opencv-python==4.9.0.80
+tqdm==4.66.4
+fpdf2==2.7.8
+pillow==10.1.0

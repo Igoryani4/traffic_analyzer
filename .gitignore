@@ -16,10 +16,13 @@ venv.bak/
 
 # Data files (большие файлы данных)
 data/
+test/
+report_output/
 *.csv
 *.zip
 *.tar.gz
 *.7z
+
 
 # Models (большие модели)
 models/
